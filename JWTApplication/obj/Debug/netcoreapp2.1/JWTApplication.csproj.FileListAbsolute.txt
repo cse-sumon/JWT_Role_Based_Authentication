@@ -1,0 +1,14 @@
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\bin\Debug\netcoreapp2.1\JWTApplication.deps.json
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\bin\Debug\netcoreapp2.1\JWTApplication.runtimeconfig.json
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\bin\Debug\netcoreapp2.1\JWTApplication.runtimeconfig.dev.json
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\bin\Debug\netcoreapp2.1\JWTApplication.dll
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\bin\Debug\netcoreapp2.1\JWTApplication.pdb
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.csproj.CoreCompileInputs.cache
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.RazorAssemblyInfo.cache
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.RazorAssemblyInfo.cs
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.AssemblyInfoInputs.cache
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.AssemblyInfo.cs
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.RazorTargetAssemblyInfo.cache
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.dll
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.pdb
+C:\Users\HP-NPC\source\repos\JWTApplication\JWTApplication\obj\Debug\netcoreapp2.1\JWTApplication.csprojAssemblyReference.cache
